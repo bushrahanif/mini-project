@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi&display=swap');
+
+.firstdiv {
+	background-color: pink;
+	text-align: center;
+}
+
+.secdiv img {
+	height: 200px;
+	width: 200px;
+	
+
+}
+.secdiv {
+	background-color: lightgreen;
+
+}
+
+.mainpage {
+	font-family: 'Gugi', cursive;
+
+}
